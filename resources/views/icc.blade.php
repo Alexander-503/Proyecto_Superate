@@ -6,13 +6,13 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.104.2">
-    <title>Universidad Panamericana</title>
+    <title>Instituto Centro Cultural</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/features/">
     <link rel="canonical" href="swiper-bundle.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" href="../images/upan.png"/>
+    <link rel="shortcut icon" href="../images/icc.png"/>
     
     
 
@@ -180,7 +180,7 @@
   <h1 class="visually-hidden">Features examples</h1>
 
   <div class="container px-4 py-5" id="featured-3" align="center">
-    <h2 class="pb-2 border-bottom">Universidad Panamericana</h2>
+    <h2 class="pb-2 border-bottom">Instituto Centro Cultural</h2>
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
       <div class="feature col">
         <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.upan.edu.sv/course-grid-2.html" class="icon-link d-inline-flex align-items-center">
+        <a href="https://www.iensccsa.edu.sv/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -227,34 +227,28 @@
         
         <div>
           <font face="Cambria">
-          <p><h4>La Universidad Panamericana de El Salvador, nace el 4 de mayo de 1989, según acuerdo N° 2432, publicado en El Diario Oficial, Tomo 307, N° 148, de fecha 19 de junio de 1990, como una corporación de utilidad pública, sin fines de lucro y como una institución privada y laica, con domicilio en San Salvador. Inició sus labores académicas a partir del 16 de marzo de 1990.
-          Sus primeros Estatutos fueron aprobados el 15 de Marzo de 1990, según Acuerdo Ejecutivo N°144 en el Ramo del Interior; no obstante, su funcionamiento fue aprobado por parte del Ministerio de Educación, el 17 de febrero de 1994, según Acuerdo Ejecutivo N° 1085, en el cual se le autorizaron con efecto retroactivo, las actividades realizadas desde el 16 de marzo del año 1990.
-          A raíz de los cambios en la Educación de Educación Superior, desde el año 1997, la Universidad modificó sus Estatutos y reorientó su estructura orgánica y de funcionamiento, logrando establecerse únicamente en tres lugares: Ahuachapán, San Vicente y San Salvador. Los nuevos Estatutos fueron aprobados según Acuerdo No. 15-1125 del 1 de septiembre de 2005.</p><Br></h4>
+          <p><h4>Nuestra Misión es formar profesionales, bilingües inglés - español, que sean líderes con capacidad para desenvolverse exitosamente en su ámbito profesional y laboral, a través de la aplicación de sus conocimientos y valores, que contribuyan al desarrollo del país.
+            Nuestra Visión es posicionarnos como institución binacional líder, reconocida por la formación de profesionales bilingües inglés – español, en diversas áreas del conocimiento. 
+            Somos una Institución que desarrolla actividades docentes para la enseñanza aprendizaje del Idioma Inglés e Informática, Formar Bachilleres Generales Y Asistentes Técnicos Bilingües, con las capacidades necesarias para responder a las exigencias modernas. Así mismo, realizar programas de expresión cultural que fortalezcan la identidad nacional y los que hagan posible el contacto con la cultura de los Estados Unidos de América y otros países.
+            La mística actual de trabajo con la que operamos se mantiene invariable por la actual Junta Directiva.</p><Br></h4>
           
             <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Carreras</h2></font><br>
 
-            <div class="card mb-3" style="max-width: 1000px;">
+            <div class="card mb-3" style="max-width: 1300px;">
                 <div class="row g-0">
                   <div class="col-md-4">
-                    <img src="../images/upan.png" class="img-fluid rounded-start" alt="...">
+                    <img src="../images/icc.png" class="img-fluid rounded-start" align="center">
                   </div>
                   <div class="col-md-8">
-                    <div class="card-body">
+                    <div class="card-body">¿
                       <h5 class="card-title"></h5>
-                      <p class="card-text"><b><p><h4>Facultad Jurisprudencia<Br></b>
-                        -Lic. en Ciencias Jurídicas<Br><br>
-                        
-                        <b>Facultad de Ciencias Económicas<Br></b>
-                        -Lic. en Administración de Empresas<Br>
-                        -Lic. en Contaduría Publica<Br>
-                        -Lic. en Mercadotecnia<Br>
-                        -Técnico en Turismo Sostenible<Br>
-                        -Técnico en Mercadotecnia<Br><br>
-                        
-                        <b>Facultad Ciencias y Humanidades<Br></b>
-                        -Lic. en CC.Educ. Espc.CC.Sociales<Br>
-                        -Lic. en Trabajo Social<Br>
-                        -Lic. en Bibliotecología</p></h4>
+                      <p class="card-text"><br><br><p><strong><h4>ICC ofrece:</strong>
+                        <br>
+                        -Licenciatura en Lingüística Aplicada con Especialidad en Inglés (Extranjera)<br>
+                        -Diplomado en Estrategias Bilingües para Asistentes de C. Desarrollo Infantil <br>
+                        -Técnico en Traducción Inglés-Español <br>
+                        -English To Go "Basics" <br>
+                        -Innovación Tecnológica en el Aula <br>
                         </p></h4>
                     </div>
                   </div>
@@ -271,7 +265,7 @@
   <div class="container px-4 py-5" id="hanging">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Ubicación</h2></font><br>
         
-    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.1541364547898!2d-89.22574788401177!3d13.709112875718207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6330693c074f29%3A0xb6cbbb4362d680ac!2sUniversidad%20Panamericana!5e0!3m2!1ses-419!2ssv!4v1669595800530!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15504.382051655171!2d-89.26386699218753!3d13.712664699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f632fe26508a185%3A0xdc59b3d524fa45df!2sInstituto%20Especializado%20de%20Nivel%20Superior%20Centro%20Cultural%20Salvadore%C3%B1o%20Americano!5e0!3m2!1ses-419!2ssv!4v1669673215892!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
        </div>
 
     </div>
@@ -284,26 +278,26 @@
 
     <div class="card-group">
       <div class="card">
-        <img src="../images/upan1.jpg" class="card-img-top" height="280">
+        <img src="../images/icc4.png" class="card-img-top" height="350">
         <div class="card-body">
-          <h5 class="card-title">Excelencia</h5>
-          <p class="card-text">De todo trabajo se aprende se sabe que cada día se puede ser mejor, la UPAN cree en ti y en tu potencial</p>
+          <h5 class="card-title">Open houses</h5>
+          <p class="card-text">Sigue las redes sociales de ICC para no perderte ninguna novedad</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
-        <img src="../images/upan3.jpg" class="card-img-top" height="280">
+        <img src="../images/icc3.png" class="card-img-top" height="350">
         <div class="card-body">
-          <h5 class="card-title">Esfuerzo</h5>
-          <p class="card-text">No te quedes de brazos cruzados, en la universidad Panamericana creemos que todo esfuerzo será recompensado</p>
+          <h5 class="card-title">Nueva ubicación</h5>
+          <p class="card-text">Cambio de aires pero siempre con la misma calidad para educarte</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
-        <img src="../images/upan2.jpg" class="card-img-top" height="280">
+        <img src="../images/icc2.jpg" class="card-img-top" height="350">
         <div class="card-body">
-          <h5 class="card-title">Social</h5>
-          <p class="card-text">No sólo formamos profesionales de calidad, si no que también personas de bien y que marcaran la diferencia en el país</p>
+          <h5 class="card-title">Es tu oportunidad</h5>
+          <p class="card-text">No pierdas la oportunidad de estudiar con los mejores, aplica ya, visita y sigue nuestras redes sociales</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
@@ -312,11 +306,9 @@
 
   <div class="container px-4 py-5" id="hanging-c">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Contactos</h2></font><br>
-    <center><img src="../images/upan.png" width="150" height="150"></center><br>
-    <center><b><p>Direccion:<p></b> <p>Calle Progreso #234, a 60 metros de Avenida Bernal. Colonia Miramonte Poniente. San Salvador. El Salvador. C.A.</p>
-        <b><p>Telefono:<p></b> <p>2527-2000</p>
-        <b><p>Email:<p></b> <p>informacionss@upan.edu.sv</p>
-        <b><p>Sitio Web:<p></b> <a href="https://www.upan.edu.sv/index.html">https://www.upan.edu.sv/index.html</a></center>
+    <center><img src="../images/icc.png" width="200" height="200"></center>
+    <center><p>Puedes ingresar al proceso de admisión de la universidad en el siguiente enlace:</p></center>
+    <center><a href="https://www.iensccsa.edu.sv/index.php/home/contactenos">ICC - San Salvador</a></center>
        </div>
     </div>
   </div>
@@ -329,4 +321,3 @@
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>
-</html>

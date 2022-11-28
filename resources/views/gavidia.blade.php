@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.udb.edu.sv/udb/pagina/listado_carreras" class="icon-link d-inline-flex align-items-center">
+        <a href="https://www.ufg.edu.sv/oferta-academica" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>

@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.ues.edu.sv/lista-de-carreras" class="icon-link d-inline-flex align-items-center">
+        <a href="https://usam.edu.sv/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -288,24 +288,25 @@
       <div class="card">
         <img src="../images/usam1.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Edificio de facultad</h5>
-          <p class="card-text">Uno de los multiples edificios con los que cuenta la universidad para que tú como estudiantes puedas recibir tus clases de manera presencial</p>
-          <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
-        </div>
-      </div>
-      <div class="card">
-        <img src="../images/usam2.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
           <h5 class="card-title">Entrada principal a la U</h5>
           <p class="card-text">Es donde los estudiantes se registran con su carnet o identificador para poder entrar</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
+        <img src="../images/usam2.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title"></h5>
+          <p class="card-text">Proyección universitaria</p>
+          <p class="card-text">Cada año que pasa es un nuevo reto y siempre buscan superarlo a toda costa por el bienestar administrativo y estudiantil</p>
+          <small class="text-muted">¡Supérate! Universities</small></p>
+        </div>
+      </div>
+      <div class="card">
         <img src="../images/usam3.jpg" class="card-img-top"  height="283">
         <div class="card-body">
-          <h5 class="card-title">Clases híbridas</h5>
-          <p class="card-text">La educación en UES seguirá de manera semipresencial y con opción de poder estudiar tu carrera virtual</p>
+          <h5 class="card-title">La universidad digital</h5>
+          <p class="card-text">Sin duda una universidad de desarrollo alto en tecnología y desarrollo -webkit-user-select</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>

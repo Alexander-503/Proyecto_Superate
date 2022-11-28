@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.upan.edu.sv/course-grid-2.html" class="icon-link d-inline-flex align-items-center">
+        <a href="https://monicaherrera.edu.sv/carreras/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -277,23 +277,23 @@
         <img src="../images/monica1.jpg" class="card-img-top" height="280">
         <div class="card-body">
           <h5 class="card-title">Instalaciones</h5>
-          <p class="card-text">Instalaciones que se vueleven tu casa, en la universidad Andrés Bello todos son una familia</p>
+          <p class="card-text">Hechas para ti y por ti.</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/monica2.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Educación</h5>
-          <p class="card-text">¿Buscas ser un profesional de éxito?, no busques más, la universidad Andrés Bello es tu mejor opción</p>
+          <h5 class="card-title">Instalaciones</h5>
+          <p class="card-text">Mejorando día con día para que tú estés bien.</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/monica3.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Calidad</h5>
-          <p class="card-text">La calidad de la educación brindada en esta universidad es otro nivel, sigue sus redes sociales para estar informado</p>
+          <h5 class="card-title">Open House</h5>
+          <p class="card-text">Sigue nuestras redes sociales para no perderte ningún open house y así poder conocer nuestras instalaciones</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
@@ -302,7 +302,7 @@
 
   <div class="container px-4 py-5" id="hanging-c">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Contactos</h2></font><br>
-    <center><img src="../images/contacto12.png"></center>
+    <center><img src="../images/contacto13.png"></center>
        </div>
     </div>
   </div>

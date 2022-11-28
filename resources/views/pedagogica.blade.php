@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.upan.edu.sv/course-grid-2.html" class="icon-link d-inline-flex align-items-center">
+        <a href="http://www.pedagogica.edu.sv/oferta-academica/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -300,23 +300,23 @@
         <img src="../images/uped1.jpg" class="card-img-top" height="280">
         <div class="card-body">
           <h5 class="card-title">Instalaciones</h5>
-          <p class="card-text">Instalaciones que se vueleven tu casa, en la universidad Andrés Bello todos son una familia</p>
+          <p class="card-text">Instalaciones que se vueleven tu casa, en la universidad Pedagógica todos son una familia</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/uped2.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Educación</h5>
-          <p class="card-text">¿Buscas ser un profesional de éxito?, no busques más, la universidad Andrés Bello es tu mejor opción</p>
+          <h5 class="card-title">Proyección</h5>
+          <p class="card-text">Seguir mejorando año con año, entregando lo mejor de nosotros para que tú seas la mejor versión de ti</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/uped3.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Calidad</h5>
-          <p class="card-text">La calidad de la educación brindada en esta universidad es otro nivel, sigue sus redes sociales para estar informado</p>
+          <h5 class="card-title">Más que una universidad</h5>
+          <p class="card-text">Somos una familia que siempre buscará por el bienestar comúnn y creera en el apoyo mutuo ante cualquier dificultad</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>

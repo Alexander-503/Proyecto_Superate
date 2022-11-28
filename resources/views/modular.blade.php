@@ -290,22 +290,22 @@
         <img src="../images/mod1.png" class="card-img-top" height="280">
         <div class="card-body">
           <h5 class="card-title">Instalaciones</h5>
-          <p class="card-text">Instalaciones que se vueleven tu casa, en la universidad Andrés Bello todos son una familia</p>
+          <p class="card-text">Instalaciones que se vueleven tu casa, en la universidad Modular Abierta todos son una familia</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/mod2.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Educación</h5>
-          <p class="card-text">¿Buscas ser un profesional de éxito?, no busques más, la universidad Andrés Bello es tu mejor opción</p>
+          <h5 class="card-title">Instalaciones</h5>
+          <p class="card-text">Pueden ser un lugar sin vida a simple vista, pero ahí se crean momentos inolvidables</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/mod3.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Calidad</h5>
+          <h5 class="card-title">Reconocimiento</h5>
           <p class="card-text">La calidad de la educación brindada en esta universidad es otro nivel, sigue sus redes sociales para estar informado</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>

@@ -6,13 +6,13 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.104.2">
-    <title>Universidad Panamericana</title>
+    <title>Universidad Autónoma de Santa Ana</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/features/">
     <link rel="canonical" href="swiper-bundle.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" href="../images/upan.png"/>
+    <link rel="shortcut icon" href="../images/unasa.jpg"/>
     
     
 
@@ -180,7 +180,7 @@
   <h1 class="visually-hidden">Features examples</h1>
 
   <div class="container px-4 py-5" id="featured-3" align="center">
-    <h2 class="pb-2 border-bottom">Universidad Panamericana</h2>
+    <h2 class="pb-2 border-bottom">Universidad Autónoma de Santa Ana</h2>
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
       <div class="feature col">
         <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.upan.edu.sv/course-grid-2.html" class="icon-link d-inline-flex align-items-center">
+        <a href="http://www.unasa.edu.sv/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -227,34 +227,27 @@
         
         <div>
           <font face="Cambria">
-          <p><h4>La Universidad Panamericana de El Salvador, nace el 4 de mayo de 1989, según acuerdo N° 2432, publicado en El Diario Oficial, Tomo 307, N° 148, de fecha 19 de junio de 1990, como una corporación de utilidad pública, sin fines de lucro y como una institución privada y laica, con domicilio en San Salvador. Inició sus labores académicas a partir del 16 de marzo de 1990.
-          Sus primeros Estatutos fueron aprobados el 15 de Marzo de 1990, según Acuerdo Ejecutivo N°144 en el Ramo del Interior; no obstante, su funcionamiento fue aprobado por parte del Ministerio de Educación, el 17 de febrero de 1994, según Acuerdo Ejecutivo N° 1085, en el cual se le autorizaron con efecto retroactivo, las actividades realizadas desde el 16 de marzo del año 1990.
-          A raíz de los cambios en la Educación de Educación Superior, desde el año 1997, la Universidad modificó sus Estatutos y reorientó su estructura orgánica y de funcionamiento, logrando establecerse únicamente en tres lugares: Ahuachapán, San Vicente y San Salvador. Los nuevos Estatutos fueron aprobados según Acuerdo No. 15-1125 del 1 de septiembre de 2005.</p><Br></h4>
+          <p><h4>Políticas Generales. Respetar y cumplir con la Constitución de la República y las leyes de Educación Superior.
+            Políticas Administrativas. Promover el cumplimiento de sus Estatutos Reglamentos para generar un sentido de identidad, integridad y pertenencia.
+            Políticas Financieras. Cumplir con las leyes de la República en materia tributaria, laboral y otras que atañen a su funcionamiento para conservar su integridad.
+            Políticas de Docencia. Promover y fomentar el desarrollo y la implementación de aquellos modelos pedagógicos apoyados en tecnologías de la información y comunicación que faciliten el aprendizaje de los alumnos.
+            Políticas de investigación. Fomentar la formación de equipos de investigación multidisciplinarios y la inserción de éstos en redes de investigación nacionales.
+            Políticas de Proyección Social. Impulsar programas y proyectos que contribuyan a la solución de problemas regionales y al mejoramiento de la calidad de vida de las personas.</p><Br></h4>
           
             <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Carreras</h2></font><br>
 
-            <div class="card mb-3" style="max-width: 1000px;">
+            <div class="card mb-3" style="max-width: 900px;">
                 <div class="row g-0">
                   <div class="col-md-4">
-                    <img src="../images/upan.png" class="img-fluid rounded-start" alt="...">
+                    <img src="../images/unasa.jpg" class="img-fluid rounded-start" align="center">
                   </div>
                   <div class="col-md-8">
-                    <div class="card-body">
+                    <div class="card-body">¿
                       <h5 class="card-title"></h5>
-                      <p class="card-text"><b><p><h4>Facultad Jurisprudencia<Br></b>
-                        -Lic. en Ciencias Jurídicas<Br><br>
-                        
-                        <b>Facultad de Ciencias Económicas<Br></b>
-                        -Lic. en Administración de Empresas<Br>
-                        -Lic. en Contaduría Publica<Br>
-                        -Lic. en Mercadotecnia<Br>
-                        -Técnico en Turismo Sostenible<Br>
-                        -Técnico en Mercadotecnia<Br><br>
-                        
-                        <b>Facultad Ciencias y Humanidades<Br></b>
-                        -Lic. en CC.Educ. Espc.CC.Sociales<Br>
-                        -Lic. en Trabajo Social<Br>
-                        -Lic. en Bibliotecología</p></h4>
+                      <p class="card-text"><br><br><p><strong><h4>Facultades:</strong>
+                        <br>
+                        -Facultad Ciencias de la Salud <Br>
+                        -Facultad de Ciencias Sociales<Br>
                         </p></h4>
                     </div>
                   </div>
@@ -271,7 +264,7 @@
   <div class="container px-4 py-5" id="hanging">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Ubicación</h2></font><br>
         
-    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.1541364547898!2d-89.22574788401177!3d13.709112875718207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6330693c074f29%3A0xb6cbbb4362d680ac!2sUniversidad%20Panamericana!5e0!3m2!1ses-419!2ssv!4v1669595800530!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.699296088928!2d-89.59293598398769!3d13.976495969084072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62e91deb73bfbb%3A0x4675a4e5f9ecc260!2sUniversidad%20Aut%C3%B3noma%20de%20Santa%20Ana!5e0!3m2!1ses-419!2ssv!4v1669670386442!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
        </div>
 
     </div>
@@ -284,26 +277,26 @@
 
     <div class="card-group">
       <div class="card">
-        <img src="../images/upan1.jpg" class="card-img-top" height="280">
+        <img src="../images/unasa1.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Excelencia</h5>
-          <p class="card-text">De todo trabajo se aprende se sabe que cada día se puede ser mejor, la UPAN cree en ti y en tu potencial</p>
+          <h5 class="card-title">Instalaciones</h5>
+          <p class="card-text">Visita nuestras instalaciones y no dudes en preguntar por como aplicar</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
-        <img src="../images/upan3.jpg" class="card-img-top" height="280">
+        <img src="../images/unasa2.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Esfuerzo</h5>
-          <p class="card-text">No te quedes de brazos cruzados, en la universidad Panamericana creemos que todo esfuerzo será recompensado</p>
+          <h5 class="card-title">Bellas vistas</h5>
+          <p class="card-text">Queremos darte lo mejor, y qué mejor cosa que una carrera universitaria</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
-        <img src="../images/upan2.jpg" class="card-img-top" height="280">
+        <img src="../images/unasa3.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Social</h5>
-          <p class="card-text">No sólo formamos profesionales de calidad, si no que también personas de bien y que marcaran la diferencia en el país</p>
+          <h5 class="card-title">¡Aplica ya!</h5>
+          <p class="card-text">No pierdas la oportunidad de estudiar con los mejores, aplica ya, visita y sigue nuestras redes sociales</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
@@ -312,11 +305,9 @@
 
   <div class="container px-4 py-5" id="hanging-c">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Contactos</h2></font><br>
-    <center><img src="../images/upan.png" width="150" height="150"></center><br>
-    <center><b><p>Direccion:<p></b> <p>Calle Progreso #234, a 60 metros de Avenida Bernal. Colonia Miramonte Poniente. San Salvador. El Salvador. C.A.</p>
-        <b><p>Telefono:<p></b> <p>2527-2000</p>
-        <b><p>Email:<p></b> <p>informacionss@upan.edu.sv</p>
-        <b><p>Sitio Web:<p></b> <a href="https://www.upan.edu.sv/index.html">https://www.upan.edu.sv/index.html</a></center>
+    <center><img src="../images/unasa.jpg" width="170" height="170"></center>
+    <center><p>Puedes ingresar al proceso de admisión de la universidad en el siguiente enlace:</p></center>
+    <center><a href="https://unasa.edu.sv/nuevo_ingreso.html#:~:text=asistente.decanatos%40unasa.edu.sv,-ACERCA%20DE%20UNASA">UNASA</a></center>
        </div>
     </div>
   </div>
@@ -329,4 +320,3 @@
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>
-</html>

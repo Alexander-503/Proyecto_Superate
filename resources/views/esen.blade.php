@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.upan.edu.sv/course-grid-2.html" class="icon-link d-inline-flex align-items-center">
+        <a href="https://www.esen.edu.sv/licenciatura-en-economia-y-negocios/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -276,24 +276,24 @@
       <div class="card">
         <img src="../images/esen1.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Instalaciones</h5>
-          <p class="card-text">Instalaciones que se vueleven tu casa, en la universidad Andrés Bello todos son una familia</p>
+          <h5 class="card-title">El futuro del país</h5>
+          <p class="card-text">Nuestros profesionales se llevan un sello de calidad para que hagan de nuestro país uno mejor</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/esen2.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Educación</h5>
-          <p class="card-text">¿Buscas ser un profesional de éxito?, no busques más, la universidad Andrés Bello es tu mejor opción</p>
+          <h5 class="card-title">Principios y valores</h5>
+          <p class="card-text">Creamos en ellos una personalidad más ética, social y moral para que se desempeñen mejor como personas</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
         <img src="../images/esen4.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Calidad</h5>
-          <p class="card-text">La calidad de la educación brindada en esta universidad es otro nivel, sigue sus redes sociales para estar informado</p>
+          <h5 class="card-title">Estás invitado</h5>
+          <p class="card-text">No pierdas la oportunidad de estudiar con los mejores, aplica ya, visita y sigue nuestras redes sociales</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>

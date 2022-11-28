@@ -80,3 +80,23 @@ Route::get('/esen', function () {
 Route::get('/monica', function () {
     return view('monica');
 });
+
+Route::get('/itca', function () {
+    return view('itca');
+});
+
+Route::get('/tecnologica', function () {
+    return view('tecnologica');
+});
+
+Route::get('/univo', function () {
+    return view('univo');
+});
+
+Route::get('/auto', function () {
+    return view('auto');
+});
+
+Route::get('/icc', function () {
+    return view('icc');
+});

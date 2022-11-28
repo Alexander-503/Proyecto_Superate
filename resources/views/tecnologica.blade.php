@@ -6,13 +6,13 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.104.2">
-    <title>Universidad Panamericana</title>
+    <title>Universidad Tecnológica de El Salvador</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/features/">
     <link rel="canonical" href="swiper-bundle.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" href="../images/upan.png"/>
+    <link rel="shortcut icon" href="../images/utec.png"/>
     
     
 
@@ -180,7 +180,7 @@
   <h1 class="visually-hidden">Features examples</h1>
 
   <div class="container px-4 py-5" id="featured-3" align="center">
-    <h2 class="pb-2 border-bottom">Universidad Panamericana</h2>
+    <h2 class="pb-2 border-bottom">Universidad Tecnológica de El Salvador</h2> 
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
       <div class="feature col">
         <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.upan.edu.sv/course-grid-2.html" class="icon-link d-inline-flex align-items-center">
+        <a href="https://www.utec.edu.sv/" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
@@ -227,34 +227,36 @@
         
         <div>
           <font face="Cambria">
-          <p><h4>La Universidad Panamericana de El Salvador, nace el 4 de mayo de 1989, según acuerdo N° 2432, publicado en El Diario Oficial, Tomo 307, N° 148, de fecha 19 de junio de 1990, como una corporación de utilidad pública, sin fines de lucro y como una institución privada y laica, con domicilio en San Salvador. Inició sus labores académicas a partir del 16 de marzo de 1990.
-          Sus primeros Estatutos fueron aprobados el 15 de Marzo de 1990, según Acuerdo Ejecutivo N°144 en el Ramo del Interior; no obstante, su funcionamiento fue aprobado por parte del Ministerio de Educación, el 17 de febrero de 1994, según Acuerdo Ejecutivo N° 1085, en el cual se le autorizaron con efecto retroactivo, las actividades realizadas desde el 16 de marzo del año 1990.
-          A raíz de los cambios en la Educación de Educación Superior, desde el año 1997, la Universidad modificó sus Estatutos y reorientó su estructura orgánica y de funcionamiento, logrando establecerse únicamente en tres lugares: Ahuachapán, San Vicente y San Salvador. Los nuevos Estatutos fueron aprobados según Acuerdo No. 15-1125 del 1 de septiembre de 2005.</p><Br></h4>
+          <p><h4>La educación es la luz en el camino de la sociedad y la Universidad Tecnológica de El Salvador (Utec), en el devenir de cuatro décadas de 'caminar y volar', se ha esmerado por iluminar por medio del conocimiento para hacer la diferencia. Al hacer un breve recorrido por su historia, no puede menos que destacarse su sentido social, la innovación y el optimismo.
+          Fue en 1979 cuando se reunió un grupo de académicos y visionarios hombres empresarios salvadoreños para fundar el Instituto Tecnológico de Comercio y Administración de Empresas (Itcae), cuyos cimientos consolidarían la existencia de lo que hoy es la Utec. Los fundadores del Itcae fueron Juan José Olivo Peñate, Edgardo Emilio Zepeda, José Mauricio Loucel, Rufino Garay H. y José Adolfo Araujo Romagoza.
+          La Utec, tras dos años de arduo trabajo, inició su labor académica el 12 de junio de 1981, con una población de 1,279 estudiantes, en el edificio Chahín, ubicado en la calle Rubén Darío de San Salvador. Inició sus actividades con tres facultades: Ciencias Económicas, Ingeniería y Arquitectura, y Ciencias y Humanidades. El primer rector fue Juan José Olivo Peñate. </p><Br></h4>
           
             <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Carreras</h2></font><br>
 
-            <div class="card mb-3" style="max-width: 1000px;">
+            <div class="card mb-3" style="max-width: 1100px;">
                 <div class="row g-0">
                   <div class="col-md-4">
-                    <img src="../images/upan.png" class="img-fluid rounded-start" alt="...">
+                    <img src="../images/utec.png" class="img-fluid rounded-start" align="center">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
                       <h5 class="card-title"></h5>
-                      <p class="card-text"><b><p><h4>Facultad Jurisprudencia<Br></b>
-                        -Lic. en Ciencias Jurídicas<Br><br>
-                        
-                        <b>Facultad de Ciencias Económicas<Br></b>
-                        -Lic. en Administración de Empresas<Br>
-                        -Lic. en Contaduría Publica<Br>
-                        -Lic. en Mercadotecnia<Br>
-                        -Técnico en Turismo Sostenible<Br>
-                        -Técnico en Mercadotecnia<Br><br>
-                        
-                        <b>Facultad Ciencias y Humanidades<Br></b>
-                        -Lic. en CC.Educ. Espc.CC.Sociales<Br>
-                        -Lic. en Trabajo Social<Br>
-                        -Lic. en Bibliotecología</p></h4>
+                      <p class="card-text"><p><strong><h4>Informáticas y Ciencias Aplicadas:</strong>
+                        <br>
+                        -Técnico en Ingeniería de Software <br>
+                        -Técnico en Diseño Gráfico <br>
+                        -Técnico en Ingeniería de Redes Computacionales <br>
+                        -Licenciatura en Informática <br>
+                        -Licenciatura en Diseño Gráfico <br>
+                        -Ingeniería Industrial <br>
+                        -Arquitectura <br>
+                        -Ingeniería en Sistemas y Computación <br>
+
+                        <b>Ciencias sociales:</b><br>
+                        -Licenciatura en Comunicaciones <br>
+                        -Técnico en Relaciones Públicas <br>
+                        -Licenciatura en Idioma Inglés <br>
+                        -Licenciatura en Psicología <br>
                         </p></h4>
                     </div>
                   </div>
@@ -271,7 +273,7 @@
   <div class="container px-4 py-5" id="hanging">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Ubicación</h2></font><br>
         
-    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.1541364547898!2d-89.22574788401177!3d13.709112875718207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6330693c074f29%3A0xb6cbbb4362d680ac!2sUniversidad%20Panamericana!5e0!3m2!1ses-419!2ssv!4v1669595800530!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.29335864367!2d-89.2038778857293!3d13.700674202168766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6330f25274b6cf%3A0x409a51c125627a99!2sUniversidad%20Tecnol%C3%B3gica%20de%20El%20Salvador!5e0!3m2!1ses-419!2ssv!4v1669665063453!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
        </div>
 
     </div>
@@ -284,26 +286,26 @@
 
     <div class="card-group">
       <div class="card">
-        <img src="../images/upan1.jpg" class="card-img-top" height="280">
+        <img src="../images/utec1.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Excelencia</h5>
-          <p class="card-text">De todo trabajo se aprende se sabe que cada día se puede ser mejor, la UPAN cree en ti y en tu potencial</p>
+          <h5 class="card-title">El futuro aquí</h5>
+          <p class="card-text">Te preparamos para que seas el futuro del presente</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
-        <img src="../images/upan3.jpg" class="card-img-top" height="280">
+        <img src="../images/utec3.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Esfuerzo</h5>
-          <p class="card-text">No te quedes de brazos cruzados, en la universidad Panamericana creemos que todo esfuerzo será recompensado</p>
+          <h5 class="card-title">Bienvenido a casa</h5>
+          <p class="card-text">Esta puede ser el lugar por el que estabas esperando encontrar</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
       <div class="card">
-        <img src="../images/upan2.jpg" class="card-img-top" height="280">
+        <img src="../images/utec4.jpg" class="card-img-top" height="280">
         <div class="card-body">
-          <h5 class="card-title">Social</h5>
-          <p class="card-text">No sólo formamos profesionales de calidad, si no que también personas de bien y que marcaran la diferencia en el país</p>
+          <h5 class="card-title">Conviértete en nuestra familia</h5>
+          <p class="card-text">No pierdas la oportunidad de estudiar con los mejores, aplica ya, visita y sigue nuestras redes sociales</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
@@ -312,11 +314,7 @@
 
   <div class="container px-4 py-5" id="hanging-c">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Contactos</h2></font><br>
-    <center><img src="../images/upan.png" width="150" height="150"></center><br>
-    <center><b><p>Direccion:<p></b> <p>Calle Progreso #234, a 60 metros de Avenida Bernal. Colonia Miramonte Poniente. San Salvador. El Salvador. C.A.</p>
-        <b><p>Telefono:<p></b> <p>2527-2000</p>
-        <b><p>Email:<p></b> <p>informacionss@upan.edu.sv</p>
-        <b><p>Sitio Web:<p></b> <a href="https://www.upan.edu.sv/index.html">https://www.upan.edu.sv/index.html</a></center>
+    <center><img src="../images/contacto15.png"></center>
        </div>
     </div>
   </div>

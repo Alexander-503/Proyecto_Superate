@@ -313,6 +313,7 @@
 
   <div class="container px-4 py-5" id="hanging-c">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Contactos</h2></font><br>
+        <center><img src="../images/andres.png" width="150" height="150"></center>
         <center><a href="https://www.unab.edu.sv/">Visita la página web para poder contactar directamente con la Universidad</a></center>
        </div>
     </div>

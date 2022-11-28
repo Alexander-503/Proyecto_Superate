@@ -273,10 +273,10 @@
     </div>
   </div>
 
-  <div clas="container px-4 py-5" id="hanging">
+  <div class="container px-4 py-5" id="hanging">
     <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Ubicación</h2></font><br>
         
-    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.3121122189154!2d-89.21486518572937!3d13.699537102194727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f63305ebc4fa6f5%3A0x6c77d95d05e52b2!2sUniversidad%20Nueva%20San%20Salvador!5e0!3m2!1ses-419!2ssv!4v1669575850768!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe></center>
+    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.3121122189154!2d-89.21486518572937!3d13.699537102194727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f63305ebc4fa6f5%3A0x6c77d95d05e52b2!2sUniversidad%20Nueva%20San%20Salvador!5e0!3m2!1ses-419!2ssv!4v1669575850768!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
        </div>
 
     </div>

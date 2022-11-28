@@ -319,7 +319,9 @@
                 <h2 class="name">ITCA FEPADE Santa Tecla</h2>
                 <p class="description">a Escuela Especializada en Ingeniería ITCA-FEPADE cuenta con una reconocida trayectoria académica, camino sustentado por el esfuerzo y la visión que dio paso a la concretización de su objetivo de fundación: impulsar la capacitación y el recurso humano de El Salvador. Estamos comprometidos con la calidad académica, la empresarialidad y la pertinencia de nuestra oferta educativa, por ello, hemos desarrollado un modelo...</p>
 
-                <button class="button">Ver más</button>
+                <form method="GET" action="/itca">
+                    <input type="submit" class="button" value="Ver más"></input>
+                </form>
             </div>
         </div>
 
@@ -334,7 +336,9 @@
                 <h2 class="name">Universidad tecnológica</h2>
                 <p class="description">La proyección social es un componente fundamental de la educación superior, que permite la relación recíproca entre las instituciones de educación superior y la sociedad. Implica la comprensión del entorno, la puesta en práctica de mecanismos de aporte y facilitar medios para una interacción trascendente con los procesos académicos. Para la Utec, representa la función que, mediante proyectos y actividades que conllevan...</p>
 
-                <button class="button">Ver más</button>
+                <form method="GET" action="/tecnologica">
+                    <input type="submit" class="button" value="Ver más"></input>
+                </form>
             </div>
         </div>
 
@@ -349,7 +353,9 @@
                 <h2 class="name">Universidad de oriente</h2>
                 <p class="description">La Universidad de Oriente (UNIVO) es un referente y actor social que promueve la gestión socialmente responsable y contribuye al desarrollo humano sustentable, principalmente en la Zona Oriental de El Salvador, no promueve el asistencialismo o la ayuda unilateral, y busca la cooperación entre distintos actores en términos de alianzas estratégicas, con un enfoque de acciones que promuevan el progreso...</p>
 
-                <button class="button">Ver más</button>
+                <form method="GET" action="/univo">
+                    <input type="submit" class="button" value="Ver más"></input>
+                </form>
             </div>
         </div>
 
@@ -361,10 +367,12 @@
                 </div>
             </div>
             <div class="card-content">
-                <h2 class="name">Universidad de oriente</h2>
+                <h2 class="name">Universidad Autónoma de SA</h2>
                 <p class="description">Nuestro objetivo es ser una institución modelo a nivel nacional e internacional en la formación de profesionales con sensibilidad humana y excelencia académica que promueva el desarrollo socioeconómico de El Salvador. Para la formación de profesionales a través de la docencia, investigación y proyección social, con calidad académica, ética y competitividad para contribuir al desarrollo nacional y así...</p>
 
-                <button class="button">Ver más</button>
+                <form method="GET" action="/auto">
+                    <input type="submit" class="button" value="Ver más"></input>
+                </form>
             </div>
         </div>
 
@@ -380,7 +388,9 @@
                 <h2 class="name">Instituto Centro Cultural</h2>
                 <p class="description">Somos una Institución que desarrolla actividades docentes para la enseñanza aprendizaje del Idioma Inglés e Informática, Formar Bachilleres Generales Y Asistentes Técnicos Bilingües, con las capacidades necesarias para responder a las exigencias modernas. Así mismo, realizar programas de expresión cultural que fortalezcan la identidad nacional y los que hagan posible el contacto con la cultura de los Estados Unidos de...</p>
 
-                <button class="button">Ver más</button>
+                <form method="GET" action="/icc">
+                    <input type="submit" class="button" value="Ver más"></input>
+                </form>
             </div>
         </div>
     </div>

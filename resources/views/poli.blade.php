@@ -229,7 +229,10 @@
           <font face="Cambria">
           <p><h4>La UPES fue fundada el 8 de febrero de 1979 por cuarenta profesionales. En sus primeros años la universidad contó con el 
             patrocinio de la Asociación de Profesionales en Tecnología, Sociedad Anónima de Capital Variable (APTESA), hasta volverse
-            autofinanciable.</p><Br></h4>
+            autofinanciable. Formar Profesionales con alto sentido crítico y ético, con capacidad de autoformación y con las competencias
+            técnico – científicas requeridas para resolver problemas mediante soluciones enfocadas en el desarrollo social y Respetuosas
+            del Medio Ambiente. Constituirse en modelo de calidad, diversidad de servicios, pertinencia social e innovación, ubicándose
+            a nivel nacional como líder en educación semipresencial y respeto al medio ambiente.</p><Br></h4>
           
             <font face="Franklin Gothic"><h2 class="pb-2 border-bottom">Carreras</h2></font><br>
 
@@ -277,8 +280,8 @@
       <div class="card">
         <img src="../images/upes2.png" class="card-img-top">
         <div class="card-body">
-          <h5 class="card-title">Edificio de facultad</h5>
-          <p class="card-text">Uno de los multiples edificios con los que cuenta la universidad para que tú como estudiantes puedas recibir tus clases de manera presencial</p>
+          <h5 class="card-title">Carreras competitivas</h5>
+          <p class="card-text">La universida busca que sus estudiantes sean profesionales éxitos dándoles educación de la más alta calidad</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>
@@ -293,8 +296,8 @@
       <div class="card">
         <img src="../images/upes3.png" class="card-img-top">
         <div class="card-body">
-          <h5 class="card-title">Clases híbridas</h5>
-          <p class="card-text">La educación en UES seguirá de manera semipresencial y con opción de poder estudiar tu carrera virtual</p>
+          <h5 class="card-title">Preparate con los mejores</h5>
+          <p class="card-text">Sin duda, esta universidad tiene el sello de la calidad y lo demuestra cada año con sus graduados</p>
           <p class="card-text"><small class="text-muted">¡Supérate! Universities</small></p>
         </div>
       </div>

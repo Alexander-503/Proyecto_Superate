@@ -189,7 +189,7 @@
           </svg>
         </div>
         <h3 class="fs-2">Pénsums</h3>
-        <a href="https://www.catolica.edu.sv/oferta-academica/" class="icon-link d-inline-flex align-items-center">
+        <a href="https://cri.catolica.edu.sv/inicio/carreras.php" class="icon-link d-inline-flex align-items-center">
           Ver
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
         </a>
